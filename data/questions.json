@@ -1,0 +1,149 @@
+{
+  "questions": [
+    {
+      "question": "Which is the most popular JavaScript framework?",
+      "options": ["Angular", "React", "Svelte", "Vue"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which company invented React?",
+      "options": ["Google", "Apple", "Netflix", "Facebook"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What does JSX stand for in React?",
+      "options": [
+        "JavaScript XML",
+        "JavaScript Extension",
+        "XML Script",
+        "JS Extension"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the purpose of the useEffect hook in React?",
+      "options": [
+        "Managing state",
+        "Handling events",
+        "Fetching data",
+        "Side effects in components"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "Which lifecycle method is used for cleanup in a React component?",
+      "options": [
+        "componentWillMount",
+        "componentDidMount",
+        "componentWillUnmount",
+        "componentWillUpdate"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the purpose of the virtual DOM in React?",
+      "options": [
+        "Improving performance",
+        "Managing state",
+        "Handling events",
+        "Data fetching"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "In React, what is the purpose of PropTypes?",
+      "options": [
+        "Styling components",
+        "Defining component types",
+        "Managing state",
+        "Routing"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the purpose of the useState hook in React?",
+      "options": [
+        "Handling events",
+        "Fetching data",
+        "Managing state",
+        "Styling components"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which of the following is NOT a valid way to define a component in React?",
+      "options": [
+        "Function component",
+        "Class component",
+        "Stateless component",
+        "Pure component"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the purpose of the render() method in a React component?",
+      "options": [
+        "Fetching data",
+        "Updating state",
+        "Rendering JSX",
+        "Handling events"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the significance of keys in React lists?",
+      "options": [
+        "They provide unique identifiers",
+        "They control component rendering",
+        "They manage state",
+        "They handle events"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which library is commonly used for state management in larger React applications?",
+      "options": ["Redux", "MobX", "Context API", "Flux"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the purpose of the useCallback hook in React?",
+      "options": [
+        "Managing state",
+        "Memoizing functions",
+        "Handling events",
+        "Fetching data"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "In React, what does the term 'controlled component' refer to?",
+      "options": [
+        "A component with its own state",
+        "A component using uncontrolled inputs",
+        "A component using controlled inputs",
+        "A stateless component"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which of the following is a popular styling solution for React?",
+      "options": ["CSS-in-JS", "SASS", "LESS", "Stylus"],
+      "correctOption": 0,
+      "points": 10
+    }
+  ]
+}
